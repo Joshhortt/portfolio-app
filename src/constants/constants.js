@@ -4,8 +4,8 @@ export const projects = [
     description: "IN DEVELOPMENT. A Real Estate App showing rental homes and for-sale properties with advanced property filtering. Uses Rapid API and Chakra UI .",
     image: '/images/1.png',
     tags: ['React', 'Javascript', 'Next.js', 'Api'],
-    source: 'https://google.com',
-    visit: 'https://github.com/Joshhortt/home-home',
+    source: 'https://home-and-home.vercel.app/',
+    visit: 'https://github.com/Joshhortt/home_home',
     id: 0,
   },
   {
