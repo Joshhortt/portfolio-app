@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Home & Home',
-    description: "IN DEVELOPMENT. A Real Estate App showing rental homes and for-sale properties with advanced property filtering. Uses Rapid API and Chakra UI .",
+    description: "A Real Estate App showing rental homes and for-sale properties with advanced property filtering. Uses Rapid API and Chakra UI",
     image: '/images/1.png',
     tags: ['React', 'Javascript', 'Next.js', 'Api'],
     source: 'https://home-and-home.vercel.app/',
@@ -29,7 +29,7 @@ export const projects = [
   },
   {
     title: 'Privatechat',
-    description: "The Github code repository for the corresponding application. A Realtime Chat Application with Facebook and Google login.",
+    description: "A Realtime Chat 'Messenger' Application with Facebook and Google login. Built with ChatEngine and Firebase.",
     image: '/images/4.png',
     tags: ['React', 'ChatEngine', 'Javascript', 'Firebase'],
     source: 'https://privatechatmessenger.netlify.app/',
@@ -38,8 +38,8 @@ export const projects = [
   },
   {
     title: 'VPN Runners',
-    description: "The Github code repository for the corresponding application. Virtual Private Network reviews Blog. Themify Wordpress Theme.",
-    image: '/images/5.png',
+    description: "A VPN's (Virtual Private Networ) reviews Blog. Uses the 'Themify' Wordpress Theme.",
+    image: '/images/5.PNG',
     tags: ['Php', 'MySql', 'Javascript', 'Cms'],
     source: 'https://vpnrunners.com',
     staging: 'https://wordpress-607868-2283665.cloudwaysapps.com/',
@@ -48,8 +48,8 @@ export const projects = [
   },
   {
     title: 'Creative Lightbox',
-    description: "The Github code repository for the corresponding application. Personal Blog about E-business consulting. Twenty Twenty One Wordpress Theme.",
-    image: '/images/6.png',
+    description: "A Personal Blog about E-business consulting. Uses the 'Twenty Twenty One' Wordpress Theme.",
+    image: '/images/6.PNG',
     tags: ['Php', 'MySql', 'Javascript', 'Cms'],
     source: 'https://creativelightbox.com',
     visit: 'https://github.com/Joshhortt/creative-lightbox',
@@ -57,8 +57,8 @@ export const projects = [
   },
   {
     title: 'CC Property Services',
-    description: "The Github code repository for the corresponding application. Vacation Rental Property Services Company Landing Page. Astra Wordpress Theme.",
-    image: '/images/7.png',
+    description: "A Vacation Rental Property Services Company Landing Page. Uses the 'Astra' Wordpress Theme.",
+    image: '/images/7.PNG',
     tags: ['Php', 'MySql', 'Javascript', 'Cms'],
     source: 'https://casacasa.pt',
     visit: 'https://github.com/Joshhortt/casa-casa',
@@ -66,8 +66,8 @@ export const projects = [
   },
   {
   title: 'Bmatica',
-  description: "The Github code repository for the corresponding application. Hardware & Software Development Company Landing Page. Divi Wordpress Theme",
-  image: '/images/8.png',
+  description: "A Hardware & Software Development Company Landing Page. Uses the premium 'Divi' Wordpress Theme",
+  image: '/images/8.PNG',
   tags: ['Php', 'MySql', 'Javascript', 'Cms'],
   source: 'http://b-matica.com/',
   staging: 'http://wordpress-607868-1968877.cloudwaysapps.com/',
@@ -76,8 +76,8 @@ export const projects = [
   },
   {
     title: 'Blue Door Lagos',
-    description: "The Github code repository for the corresponding application. Vacation Rental Booking Website.  Sydney Wordpress Theme.",
-    image: '/images/9.png',
+    description: "A Vacation Rental Booking Website.  Uses the 'Sydney' Wordpress Theme.",
+    image: '/images/9.PNG',
     tags: ['Php', 'MySql','Javascript', 'Cms'],
     source: 'https://bluedoorlagos.com/',
     visit: 'https://github.com/Joshhortt/blue-door-lagos/',
@@ -85,8 +85,8 @@ export const projects = [
   },
   {
     title: 'Lagos Bay View Flat',
-    description: "The Github code repository for the corresponding application. Vacation Rental Booking Website. Astra Wordpress Theme.",
-    image: '/images/10.png',
+    description: "A Vacation Rental Booking Website. Uses the 'Astra' Wordpress Theme.",
+    image: '/images/10.PNG',
     tags: ['Php', 'MySql', 'Javascript', 'Cms'],
     source: 'https://lagosbayviewflat.com/',
     visit: 'https://github.com/Joshhortt/lagos-bay-view-flat/',
@@ -94,8 +94,8 @@ export const projects = [
   },
   {
     title: 'Vinyl Flat',
-    description: "The Github code repository for the corresponding application. Vacation Rental Booking Website. Sydney Wordpress Theme.",
-    image: '/images/11.png',
+    description: "A Vacation Rental Booking Website. Uses the 'Sydney' Wordpress Theme.",
+    image: '/images/11.PNG',
     tags: ['Php', 'MySql', 'Javascript', 'Cms'],
     source: 'https://vinylflat.pt/',
     visit: 'https://github.com/Joshhortt/vinyl-flat/',
@@ -103,8 +103,8 @@ export const projects = [
   },
   {
   title: 'Casa Beatriz',
-  description: "The Github code repository for the corresponding application. Vacation Rental Booking Website. Astra Wordpress Theme.",
-  image: '/images/12.png',
+  description: "A Vacation Rental Booking Website. Uses the 'Astra' Wordpress Theme.",
+  image: '/images/12.PNG',
   tags: ['Php', 'MySql', 'Javascript', 'Cms'],
   source: 'https://casabeatriz.pt/',
   visit: 'https://github.com/Joshhortt/casa-beatriz/',
@@ -112,8 +112,8 @@ export const projects = [
 },
 {
   title: 'Dev Match',
-  description: "The Github code repository for the corresponding application. A Ruby on Rails CRUD Application.",
-  image: '/images/13.png',
+  description: "A Ruby on Rails CRUD Application, hosted in 'Heroku.com'.",
+  image: '/images/13.PNG',
   tags: ['Ruby on Rails', 'MySql', 'Javascript'],
   source: 'https://lit-river-74323.herokuapp.com/',
   visit: 'https://github.com/Joshhortt/dev-match',
@@ -121,8 +121,8 @@ export const projects = [
 },
 {
   title: 'Designer Portfolio',
-  description: "The Github code repository for the corresponding application. A simple Portfolio Landing Page.",
-  image: '/images/14.png',
+  description: "A Portfolio Landing Page for artists and designers. Built with Javascript.",
+  image: '/images/14.PNG',
   tags: ['Html', 'Css', 'Javascript'],
   source: 'https://google.com/',
   visit: 'https://github.com/Joshhortt/designer-portfolio',
