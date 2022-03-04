@@ -24,7 +24,7 @@ export const projects = [
       tags: ['Javascript', 'Json', 'ScraperApi', 'RapidApi'],
     source: 'https://rapidapi.com/joshhortt/api/amazon-data-crawler/',
     staging: 'https://amazon-data-crawler.herokuapp.com/',
-    visit: 'https://github.com/Joshhortt/portfolio-app',
+    visit: 'https://github.com/Joshhortt/amazon_data_crawler',
     id: 2,
   },
   {
