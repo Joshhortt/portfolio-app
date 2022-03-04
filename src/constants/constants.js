@@ -18,12 +18,13 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Cryptofast',
-    description: "IN DEVELOPMENT. A React App using Redux Toolkit & Ant Design, creating charts, and fetching data from multiple sources using RapidAPI .",
+    title: 'Amazon Data Crawler',
+    description: "A Javascript App using RapidAPI and ScraperAPI, for scraping Amazon's product details & search results data into JSON format.",
       image: '/images/3.png',
-      tags: ['React', 'Chart.js', 'Redux', 'Api'],
-    source: 'https://google.com',
-    visit: 'https://github.com/Joshhortt/crypto-fast',
+      tags: ['Javascript', 'Json', 'ScraperApi', 'RapidApi'],
+    source: 'https://rapidapi.com/joshhortt/api/amazon-data-crawler/',
+    staging: 'https://amazon-data-crawler.herokuapp.com/',
+    visit: 'https://github.com/Joshhortt/portfolio-app',
     id: 2,
   },
   {
