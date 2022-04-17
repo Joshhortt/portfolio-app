@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Restaurant Peter Brissos',
     description:"IN DEVELOPMENT. Portuguese Fine Dining Restaurant Landing Page built with REACT",
-    image: '/images/pb.png',
+    image: '/images/2.png',
     tags: ['React', 'Javascript', 'BEM Css'],
     source: 'https://restaurantpeterbrissos.netlify.app/',
     visit: 'https://github.com/Joshhortt/restaurante-pt',
