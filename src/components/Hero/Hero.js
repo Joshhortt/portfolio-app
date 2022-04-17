@@ -13,7 +13,7 @@ const Hero = (props) => (
       </SectionTitle>
       <SectionText>
         Freelance Web Designer & Front-End Developer based in Beja, Portugal. 
-        Experienced in designing & developing Wordpress Websites.<br/> 
+        Experienced in designing & developing JamSTACK Applications.<br/> 
         I am also becoming more experienced in building systems that implement Business 
         Logic & interact with server-side technology such as React & Redux.
       </SectionText>
