@@ -9,7 +9,7 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Restaurant Peter Brissos',
+    title: 'Restaurant PB',
     description:"IN DEVELOPMENT. Portuguese Fine Dining Restaurant Landing Page built with REACT",
     image: '/images/2.png',
     tags: ['React', 'Javascript', 'BEM Css'],
