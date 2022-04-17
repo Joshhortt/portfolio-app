@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Restaurant PB',
-    description:"IN DEVELOPMENT. Portuguese Fine Dining Restaurant Landing Page built with Figma UI/UX design and REACT.js",
+    description:"IN DEVELOPMENT. Portuguese Fine Dining Restaurant Landing Page designed with Figma UI/UX design tool and REACT.js",
     image: '/images/2.png',
     tags: ['React', 'Javascript', 'BEM Css', 'Figma'],
     source: 'https://restaurantpeterbrissos.netlify.app/',
