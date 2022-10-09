@@ -128,6 +128,24 @@ export const projects = [
   visit: 'https://github.com/Joshhortt/designer-portfolio',
   id: 13,
 },
+{
+title: 'De Flat',
+description: "A Vacation Rental Booking Website. Uses the 'Sydney' Wordpress Theme.",
+image: '/images/15.PNG',
+tags: ['Php', 'MySql', 'Javascript', 'Cms'],
+source: 'https://deflat.pt/',
+visit: 'https://github.com/Joshhortt/de-flat',
+id: 14,
+},
+{
+  title: 'GymX',
+  description: "A Gym Landing Page for a fitness business. Built with Javascript.",
+  image: '/images/16.PNG',
+  tags: ['Html', 'Css', 'Javascript'],
+  source: 'https://gym-x.vercel.app/',
+  visit: 'https://github.com/Joshhortt/gym-app',
+  id: 15,
+  },
 ];
 
 export const TimeLineData = [
