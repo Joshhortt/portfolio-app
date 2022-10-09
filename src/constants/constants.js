@@ -173,6 +173,15 @@ id: 14,
         visit: 'https://github.com/Joshhortt/jc-blog-app',
         id: 18,
         },
+        {
+          title: 'Creative Lightbox Blog',
+          description: "Personal Blog about Web design. Built with ReactJS, GraphQL, NextJS & Tailwind CSS.",
+          image: '/images/20.png',
+          tags: ['Html', 'Css', 'Svelte', 'Javascript'],
+          source: 'https://creativelightbox.vercel.app/',
+          visit: 'https://github.com/Joshhortt/creativelightbox-blog',
+          id: 19,
+          },
 ];
 
 export const TimeLineData = [
