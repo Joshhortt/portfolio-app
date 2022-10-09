@@ -164,6 +164,15 @@ id: 14,
       visit: 'https://github.com/Joshhortt/power-attic',
       id: 17,
       },
+      {
+        title: 'JAHC',
+        description: "Personal Blog about Web development. Built with ReactJS, GraphQL, NextJS & Tailwind CSS.",
+        image: '/images/19.png',
+        tags: ['Html', 'Tailwind Css', 'Javascript'],
+        source: 'https://jahc.vercel.app/',
+        visit: 'https://github.com/Joshhortt/jc-blog-app',
+        id: 18,
+        },
 ];
 
 export const TimeLineData = [
