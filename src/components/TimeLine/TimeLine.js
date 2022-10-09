@@ -43,10 +43,10 @@ const Timeline = () => {
     I' ve been working as a freelance web-developer since 2020. I've always been someone who has both creative and a logical side.
     My previous experience was in IT  Support/Administration & Software Sales & Consulting.
     When I discovered Web Design mostly using Wordpress, and later on REACT.js & NEXT.js,
-    I realized it would be the perfect fit. 
+    I realized it would be the perfect fit to build quickly applications clients need. 
     I could use my creative side to design and my logical side to code. 
     Being both a Designer & Developer allows me to make sure no detail is lost in translation.
-    And lately I've been also Blogging & translating Web Content for businesses & Ecommerce Websites.
+    And lately I've been also deeply into Blockchain and Web 3.0.
   </SectionText>
   <CarouselContainer ref={carouselRef} onScroll={handleScroll}> 
     <>

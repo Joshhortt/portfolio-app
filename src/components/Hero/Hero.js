@@ -12,12 +12,10 @@ const Hero = (props) => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        Freelance Web Designer & Front-End Developer based in Beja, Portugal. 
+        Freelance Front-End Developer based in Beja, Portugal. 
         Experienced in designing & developing JamSTACK Applications.<br/> 
-        I am also becoming more experienced in building systems that implement Business 
-        Logic & interact with server-side technology such as React & Redux.
       </SectionText>
-      <Button onClick={() => window.location = 'https://creativelightbox.com'}>Visit Blog</Button>
+      <Button onClick={() => window.location = 'https://jahc.vercel.app/'}>Visit Blog</Button>
     </LeftSection>
   </Section>
 );
