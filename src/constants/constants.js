@@ -146,6 +146,24 @@ id: 14,
   visit: 'https://github.com/Joshhortt/gym-app',
   id: 15,
   },
+  {
+    title: '.trainers',
+    description: "A sneakers/trainers E-commerce shop. Built with Javascript.",
+    image: '/images/17.PNG',
+    tags: ['Html', 'Css', 'Javascript'],
+    source: 'https://trainers-shop.vercel.app/',
+    visit: 'https://github.com/Joshhortt/trainers-shop',
+    id: 16,
+    },
+    {
+      title: 'The Power-Attic',
+      description: "A Gym Landing Page for a Personal Trainers. Built with Html & Tailwind Css.",
+      image: '/images/18.PNG',
+      tags: ['Html', 'Tailwind Css', 'Javascript'],
+      source: 'https://power-attic.vercel.app/',
+      visit: 'https://github.com/Joshhortt/power-attic',
+      id: 17,
+      },
 ];
 
 export const TimeLineData = [
