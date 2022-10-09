@@ -166,7 +166,7 @@ id: 14,
       },
       {
         title: 'JAHC',
-        description: "Personal Blog about Web development. Built with ReactJS, GraphQL, NextJS & Tailwind CSS.",
+        description: "Personal Blog. Built with ReactJS, GraphQL, NextJS & Tailwind CSS.",
         image: '/images/19.png',
         tags: ['React', 'Next', 'Tailwind Css', 'GraphQL'],
         source: 'https://jahc.vercel.app/',
