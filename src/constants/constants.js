@@ -175,7 +175,7 @@ id: 14,
         },
         {
           title: 'Creative Lightbox Blog',
-          description: "Personal Blog about Web design. Built with ReactJS, GraphQL, NextJS & Tailwind CSS.",
+          description: "My personal UI / UX Webdesign Blog. Built with the Svelte Framework",
           image: '/images/20.png',
           tags: ['Html', 'Css', 'Svelte', 'Javascript'],
           source: 'https://creativelightbox.vercel.app/',
