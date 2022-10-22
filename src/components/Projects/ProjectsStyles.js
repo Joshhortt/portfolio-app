@@ -89,14 +89,17 @@ export const UtilityList = styled.ul`
 `;
 
 export const ExternalLinks = styled.a`
-color:#d4c0c0;
+color: #fff;
 font-size: 1.6rem;
 padding:1rem 1.5rem;
-background: #6b3030;
+background: linear-gradient(270deg, #00DBD8 0%, #B133FF 100%);
+    opacity: 0.5;
+    box-shadow: inset 0px 2px 1px rgba(46, 49, 55, 0.15), inset 0px 0px 4px rgba(20, 20, 55, 0.3);
+
 border-radius: 15px;
 transition: 0.5s;
 &:hover{
-  background: #801414;
+  background: #B133FF;
 
 }
 `;

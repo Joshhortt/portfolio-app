@@ -13,7 +13,7 @@ const Hero = (props) => (
       </SectionTitle>
       <SectionText>
         Freelance Front-End Developer based in Beja, Portugal. 
-        Experienced in designing & developing JamSTACK Applications.<br/> 
+        Experienced in designing & developing Wordpress & JamSTACK Applications.<br/> 
       </SectionText>
       <Button onClick={() => window.location = 'https://jahc.vercel.app/'}>Visit Blog</Button>
     </LeftSection>
