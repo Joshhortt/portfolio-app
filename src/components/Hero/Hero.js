@@ -12,8 +12,8 @@ const Hero = (props) => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        Freelance Front-End Developer based in Beja, Portugal. 
-        Experienced in designing & developing Wordpress & JamSTACK Applications.<br/> 
+      Full Stack Web Developer based in Beja, Portugal. 
+      Experienced in designing UI Web Components & developing .Net & React Applications.<br/> 
       </SectionText>
       <Button onClick={() => window.location = 'https://jahc.vercel.app/'}>Visit Blog</Button>
     </LeftSection>
