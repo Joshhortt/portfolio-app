@@ -189,7 +189,7 @@ export const TimeLineData = [
   { year: 2005, text: 'Worked in IT Support & Administration', },
   { year: 2017, text: 'Worked as a Wordpress Developer', },
   { year: 2019, text: 'Worked as a Systems Administrator', },
-  { year: 2020, text: 'Started my Web Development journey', },
-  { year: 2021, text: 'Founded Creative Lightbox.com', },
+  { year: 2020, text: 'Started my React Web Development journey', },
+  { year: 2022, text: 'Founded Creative Lightbox.net', },
   // { year: 2022, text: 'Started my own online Business platform', },
 ];

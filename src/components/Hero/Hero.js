@@ -15,7 +15,7 @@ const Hero = (props) => (
       Full Stack Web Developer based in Beja, Portugal. 
       Experienced in designing UI Web Components & developing .Net & React Applications.<br/> 
       </SectionText>
-      <Button onClick={() => window.location = 'https://jahc.vercel.app/'}>Visit Blog</Button>
+      <Button onClick={() => window.location = 'https://creativelightbox.net/'}>Visit Blog</Button>
     </LeftSection>
   </Section>
 );
