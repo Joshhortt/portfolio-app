@@ -1,13 +1,17 @@
-import React from 'react';
+import React from "react";
 
-import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
-import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
+import {
+  Section,
+  SectionDivider,
+  SectionTitle,
+} from "../../styles/GlobalComponents";
+import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
 
 const data = [
-  { number: 8, text: 'Open Source Projects'},
-  { number: 24, text: 'Github Pull Requests', },
-  { number: 134, text: 'Github Repositories', },
-  { number: 3, text: 'Github Stars', }
+  { number: 8, text: "Open Source Projects" },
+  { number: 24, text: "Github Pull Requests" },
+  { number: 140, text: "Github Repositories" },
+  { number: 3, text: "Github Stars" },
 ];
 
 const Acomplishments = () => (
@@ -22,7 +26,6 @@ const Acomplishments = () => (
       ))}
     </Boxes>
   </Section>
-  
 );
 
 export default Acomplishments;

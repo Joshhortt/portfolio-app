@@ -207,9 +207,29 @@ export const projects = [
       "A complete Full-stack app for students. Built with React and Supabase.",
     image: "/images/21.png",
     tags: ["React", "Javascript", "Supabase"],
-    source: "https://hojeaprendi.netlify.app/",
-    visit: "https://github.com/Joshhortt/hoje-aprendi",
+    source: "https://hoje-aprendi.netlify.app/",
+    visit: "https://github.com/Joshhortt/hojeaprendi",
     id: 20,
+  },
+  {
+    title: "Rastrum",
+    description:
+      "Simple Note-Taking App. Built with Javascript, React and Remix.",
+    image: "/images/22.png",
+    tags: ["React", "Remix", "Javascript"],
+    source: "https://rastrum.netlify.app/",
+    visit: "https://github.com/Joshhortt/rastrum",
+    id: 21,
+  },
+  {
+    title: "Kadê Gastos",
+    description:
+      "A Full-Stack Spending Tracker Management Web App. Built with Remix.",
+    image: "/images/23.png",
+    tags: ["React", "Remix", "MongoDB"],
+    source: "https://kadegastos.netlify.app/",
+    visit: "https://github.com/Joshhortt/kade-gastos",
+    id: 22,
   },
 ];
 

@@ -13,7 +13,7 @@ const Hero = (props) => (
       </SectionTitle>
       <SectionText>
       Full Stack Web Developer based in Beja, Portugal. 
-      Experienced in designing UI Web Components & developing .Net & React Applications.<br/> 
+      Experienced in designing UI Web Components & developing React Applications.<br/> 
       </SectionText>
       <Button onClick={() => window.location = 'https://creativelightbox.net/'}>Visit Blog</Button>
     </LeftSection>
