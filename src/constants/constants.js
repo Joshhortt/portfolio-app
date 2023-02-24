@@ -46,8 +46,8 @@ export const projects = [
       "IN DEVELOPMENT. Ecommerce site build with React, Headless CMS, integration with Stripe",
     image: "/images/5.PNG",
     tags: ["Sanity", "Stripe", "Next.js", "React"],
-    source: "",
-    staging: "",
+    source: "https://ecommerce-shop-f1na-qka25av2j-joshhortt.vercel.app/",
+    staging: "https://ecommerce-shop-f1na-qka25av2j-joshhortt.vercel.app/",
     visit: "https://github.com/Joshhortt/ecommerce-shop",
     id: 4,
   },
@@ -80,7 +80,7 @@ export const projects = [
     tags: ["Php", "MySql", "Javascript", "Cms"],
     source: "https://bitmatica.pt/",
     staging: "",
-    visit: "",
+    visit: "https://github.com/Joshhortt/bitmatica",
     id: 7,
   },
   {
@@ -174,7 +174,7 @@ export const projects = [
   {
     title: "The Power-Attic",
     description:
-      "A Gym Landing Page for a Personal Trainers. Built with Html & Tailwind Css.",
+      "A Gym Landing Page for Personal Trainers. Built with Html & Tailwind Css.",
     image: "/images/18.png",
     tags: ["Html", "Tailwind Css", "Javascript"],
     source: "https://power-attic.vercel.app/",
@@ -184,7 +184,7 @@ export const projects = [
   {
     title: "JAHC",
     description:
-      "Personal Blog. Built with ReactJS, GraphQL, NextJS & Tailwind CSS.",
+      " A Headless CMS Blog. Built with React, GraphQL, Nextjs & Tailwind Css.",
     image: "/images/19.png",
     tags: ["React", "Next", "Tailwind Css", "GraphQL"],
     source: "https://jahc.vercel.app/",
@@ -193,8 +193,7 @@ export const projects = [
   },
   {
     title: "Creative Lightbox Blog",
-    description:
-      "My personal UI / UX Webdesign Blog. Built with the Svelte Framework",
+    description: "A simple Blog. Built with the Svelte Framework",
     image: "/images/20.png",
     tags: ["Html", "Css", "Svelte", "Javascript"],
     source: "https://creativelightbox.vercel.app/",
@@ -204,7 +203,7 @@ export const projects = [
   {
     title: "Hoje Aprendi",
     description:
-      "A complete Full-stack app for students. Built with React and Supabase.",
+      "A Full-stack app for students. Built with React and Supabase.",
     image: "/images/21.png",
     tags: ["React", "Javascript", "Supabase"],
     source: "https://hoje-aprendi.netlify.app/",
@@ -224,20 +223,40 @@ export const projects = [
   {
     title: "Kadê Gastos",
     description:
-      "A Full-Stack Spending Tracker Management Web App. Built with Remix.",
+      "A Full-Stack Spending Tracker Management App. Built with Remix.",
     image: "/images/23.png",
     tags: ["React", "Remix", "MongoDB"],
     source: "https://kadegastos.netlify.app/",
     visit: "https://github.com/Joshhortt/kade-gastos",
     id: 22,
   },
+  {
+    title: "Solicitor",
+    description:
+      "A Solicitor Firm Business Blog Website. Built with NextJS & Markdown.",
+    image: "/images/24.png",
+    tags: ["Javascript", "React", "Next.js", "MDX"],
+    source: "",
+    visit: "https://github.com/Joshhortt/solicitor",
+    id: 23,
+  },
+  {
+    title: "100devs",
+    description:
+      "100 Devs Bootcamp blog website. Built with tailwindcss, Nextjs & Markdown.",
+    image: "/images/25.png",
+    tags: ["Javascript", "React", "Next.js", "MDX"],
+    source: "",
+    visit: "https://github.com/Joshhortt/hundred-devs",
+    id: 24,
+  },
 ];
 
 export const TimeLineData = [
-  { year: 2005, text: "Worked in IT Support & Administration" },
+  { year: 2003, text: "Worked in IT Support & Maintainance" },
   { year: 2017, text: "Worked as a Wordpress Developer" },
-  { year: 2019, text: "Worked as a Systems Administrator" },
-  { year: 2020, text: "Started my React Web Development journey" },
+  { year: 2019, text: "Worked as a SysAdmin & IT Technician" },
+  { year: 2020, text: "Started my React Development journey" },
   { year: 2022, text: "Founded Creative Lightbox.net" },
-  // { year: 2022, text: 'Started my own online Business platform', },
+  { year: 2023, text: "Learn programming in C# /.NET & Low-Code" },
 ];

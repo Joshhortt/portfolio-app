@@ -61,15 +61,22 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I' ve been working as a part-time Web Developer since 2020. I've always
-        been someone who has both creative and a logical side. My previous
-        experience was in IT Support/Administration & Software Sales &
-        Consulting. When I discovered Web Design mostly using Wordpress, and
-        later on REACT.js, NEXT.js & REMIX. I realized it would be the perfect
-        fit to quickly build applications clients need. I could use my creative
-        side to design and my logical side to code. Being both a Designer &
-        Developer allows me to make sure no detail is lost in translation. And
-        lately I've been also into Blockchain & Web 3.0.
+        I am a web developer with over 5+ years of experience working on a
+        diverse range of projects across various industries. My passion for web
+        development drives me to create high-performing, safe, and easy to
+        maintain websites. I specialize in building Wordpress websites and
+        websites on the{" "}
+        <a
+          id="jamstack"
+          href="https://creativelightbox.net/why-the-jamstack-is-the-future-of-web-development"
+          target="_blank"
+        >
+          Jamstack
+        </a>{" "}
+        architecture. With my proficiency in front-end, back-end, API
+        integrations, databases, server maintenance, hosting, content management
+        systems (CMS), e-commerce solutions and more, I am well-equipped to
+        handle all web development needs.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
