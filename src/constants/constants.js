@@ -22,11 +22,11 @@ export const projects = [
   {
     title: "Amazon Data Crawler",
     description:
-      "A Javascript App using RapidAPI and ScraperAPI, for scraping Amazon's product details & search results data into JSON format.",
+      "UPDATING: A Javascript App using RapidAPI & ScraperAPI, for scraping Amazon's product details & search results data into JSON format.",
     image: "/images/3.png",
     tags: ["Javascript", "Json", "ScraperApi", "RapidApi"],
-    source: "https://rapidapi.com/joshhortt/api/amazon-data-crawler/",
-    staging: "https://amazon-data-crawler.herokuapp.com/",
+    source: "https://amazon-data-crawler.herokuapp.com/",
+    staging: "https://rapidapi.com/joshhortt/api/amazon-data-crawler/",
     visit: "https://github.com/Joshhortt/amazon_data_crawler",
     id: 2,
   },
@@ -58,7 +58,6 @@ export const projects = [
     image: "/images/6.PNG",
     tags: ["Css", "Stripe", "Javascript"],
     source: "",
-    staging: "",
     visit: "https://github.com/Joshhortt/pretty-cash",
     id: 5,
   },
@@ -79,7 +78,6 @@ export const projects = [
     image: "/images/8.PNG",
     tags: ["Php", "MySql", "Javascript", "Cms"],
     source: "https://bitmatica.pt/",
-    staging: "",
     visit: "https://github.com/Joshhortt/bitmatica",
     id: 7,
   },
@@ -243,7 +241,7 @@ export const projects = [
   {
     title: "100devs",
     description:
-      "100 Devs Bootcamp blog website. Built with tailwindcss, Nextjs & Markdown.",
+      "IN DEVELOPMENT. A Blog for Devs. Built with Tailwindcss, Nextjs & Markdown.",
     image: "/images/25.png",
     tags: ["Javascript", "React", "Next.js", "MDX"],
     source: "",
