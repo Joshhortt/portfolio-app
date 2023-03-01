@@ -229,13 +229,12 @@ export const projects = [
     id: 22,
   },
   {
-    title: "Solicitor",
-    description:
-      "A Solicitor Firm Business Blog Website. Built with NextJS & Markdown.",
+    title: "DESIGN",
+    description: "Next Project is in Design Phase. Soon will be visible.",
     image: "/images/24.png",
     tags: ["Javascript", "React", "Next.js", "MDX"],
     source: "",
-    visit: "https://github.com/Joshhortt/solicitor",
+    visit: "",
     id: 23,
   },
   {
@@ -247,6 +246,16 @@ export const projects = [
     source: "",
     visit: "https://github.com/Joshhortt/hundred-devs",
     id: 24,
+  },
+  {
+    title: "Solicitor",
+    description:
+      "IN DEVELOPMENT. Solicitor Firm  Blog Website. Built with NextJS & Markdown.",
+    image: "/images/26.png",
+    tags: ["Javascript", "React", "Next.js", "MDX"],
+    source: "",
+    visit: "https://github.com/Joshhortt/solicitor",
+    id: 25,
   },
 ];
 
