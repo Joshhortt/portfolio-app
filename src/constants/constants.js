@@ -74,7 +74,7 @@ export const projects = [
   {
     title: "Bitmatica",
     description:
-      "A Hardware & Software E-commerce Website. Uses 'Prestashop' E-commerce platform",
+      "A Hardware & Software E-commerce Website. Uses the 'Prestashop' E-commerce platform",
     image: "/images/8.PNG",
     tags: ["Php", "MySql", "Javascript", "Cms"],
     source: "https://bitmatica.pt/",
@@ -240,7 +240,7 @@ export const projects = [
   {
     title: "100devs",
     description:
-      "IN DEVELOPMENT. A Blog for Devs. Built with Tailwindcss, Nextjs & Markdown.",
+      "IN DEVELOPMENT. A Blog for Web Development Students. Built with Tailwindcss, Nextjs & Markdown.",
     image: "/images/25.png",
     tags: ["Javascript", "React", "Next.js", "MDX"],
     source: "",
@@ -250,7 +250,7 @@ export const projects = [
   {
     title: "Solicitor",
     description:
-      "IN DEVELOPMENT. Solicitor Firm  Blog Website. Built with NextJS & Markdown.",
+      "IN DEVELOPMENT. A Solicitor Law Firm Blog Website. Built with NextJS & Markdown.",
     image: "/images/26.png",
     tags: ["Javascript", "React", "Next.js", "MDX"],
     source: "",
@@ -265,5 +265,5 @@ export const TimeLineData = [
   { year: 2019, text: "Worked as a SysAdmin & IT Technician" },
   { year: 2020, text: "Started my React Development journey" },
   { year: 2022, text: "Founded Creative Lightbox.net" },
-  { year: 2023, text: "Learn programming in C# /.NET & Low-Code" },
+  { year: 2023, text: "Learning Project Management" },
 ];
