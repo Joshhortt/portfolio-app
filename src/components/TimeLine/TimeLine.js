@@ -61,7 +61,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am a web developer with over 5+ years of experience working on a
+        I am a web developer with over 20+ years of experience working on a
         diverse range of projects across various industries. My passion for web
         development drives me to create high-performing, safe, and easy to
         maintain websites. I specialize in building Wordpress websites and
