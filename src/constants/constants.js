@@ -229,12 +229,13 @@ export const projects = [
     id: 22,
   },
   {
-    title: "DESIGN",
-    description: "Next Project is in Design Phase. Soon will be visible.",
+    title: "Project Prodigy",
+    description:
+      "Simple, powerful & flexible markdown-powered docs site for readers. Built with Next.js.",
     image: "/images/24.png",
     tags: ["Javascript", "React", "Next.js", "MDX"],
-    source: "",
-    visit: "",
+    source: "https://project-prodigy.vercel.app/",
+    visit: "https://github.com/Joshhortt/project-prodigy",
     id: 23,
   },
   {
@@ -250,10 +251,10 @@ export const projects = [
   {
     title: "Solicitor",
     description:
-      "IN DEVELOPMENT. A Solicitor Law Firm Blog Website. Built with NextJS & Markdown.",
+      "A Solicitor Law Firm Blog Website. Built with NextJS & Markdown.",
     image: "/images/26.png",
     tags: ["Javascript", "React", "Next.js", "MDX"],
-    source: "",
+    source: "https://evaristoamaro.pt/",
     visit: "https://github.com/Joshhortt/solicitor",
     id: 25,
   },
