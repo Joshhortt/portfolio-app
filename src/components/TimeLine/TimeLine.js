@@ -62,10 +62,10 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         I am a web developer with over 20+ years of experience working on a
-        diverse range of projects across various industries. My passion for web
-        development drives me to create high-performing, safe, and easy to
-        maintain websites. I specialize in building Wordpress websites and
-        websites on the{" "}
+        diverse range of technologies and projects across various industries. My
+        passion for web development drives me to create high-performing, safe,
+        and easy to maintain websites. I specialize in building Wordpress
+        websites and websites on the{" "}
         <a
           id="jamstack"
           href="https://creativelightbox.net/why-the-jamstack-is-the-future-of-web-development"

@@ -1,8 +1,7 @@
 export const projects = [
   {
     title: "Home & Home",
-    description:
-      "A Real Estate App showing rental homes & for-sale properties with advanced property filtering.",
+    description: "A Real Estate Website with advanced property filtering.",
     image: "/images/1.png",
     tags: ["React", "Javascript", "Next.js", "Api"],
     source: "https://home-and-home.vercel.app/",
@@ -124,7 +123,7 @@ export const projects = [
   },
   {
     title: "Designer Portfolio",
-    description: "A Portfolio Landing Page for artists & designers.",
+    description: "A Portfolio Landing Page for artists.",
     image: "/images/14.PNG",
     tags: ["Html", "Css", "Javascript"],
     source: "https://designer-portfolio-jade.vercel.app/",
@@ -142,7 +141,7 @@ export const projects = [
   },
   {
     title: "GymX",
-    description: "A Gym Landing Page for fitness businesses.",
+    description: "A Gym Landing Page.",
     image: "/images/16.png",
     tags: ["Html", "Css", "Javascript"],
     source: "https://gym-x.vercel.app/",
@@ -160,7 +159,7 @@ export const projects = [
   },
   {
     title: "The Power-Attic",
-    description: "A Gym Landing Page for Personal Trainers.",
+    description: "A Landing Page for Personal Trainers.",
     image: "/images/18.png",
     tags: ["Html", "Tailwind Css", "Javascript"],
     source: "https://power-attic.vercel.app/",
@@ -223,7 +222,7 @@ export const projects = [
   },
   {
     title: "100devs",
-    description: "IN DEVELOPMENT. A Blog for Web Development Students.",
+    description: "A Blog for Web Development Students.",
     image: "/images/25.png",
     tags: ["Javascript", "React", "Next.js", "MDX"],
     source: "",
