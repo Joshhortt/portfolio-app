@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Home & Home",
     description:
-      "A Real Estate App showing rental homes and for-sale properties with advanced property filtering. Uses Rapid API and Chakra UI",
+      "A Real Estate App showing rental homes & for-sale properties with advanced property filtering.",
     image: "/images/1.png",
     tags: ["React", "Javascript", "Next.js", "Api"],
     source: "https://home-and-home.vercel.app/",
@@ -12,7 +12,7 @@ export const projects = [
   {
     title: "Restaurant PB",
     description:
-      "IN DEVELOPMENT. Portuguese Fine Dining Restaurant Landing Page designed with Figma UI/UX design tool and REACT.js",
+      "IN DEVELOPMENT. Portuguese Fine Dining Restaurant Landing Page.",
     image: "/images/2.png",
     tags: ["React", "Javascript", "BEM Css", "Figma"],
     source: "https://restaurantpeterbrissos.netlify.app/",
@@ -22,7 +22,7 @@ export const projects = [
   {
     title: "Amazon Data Crawler",
     description:
-      "UPDATING: A Javascript App using RapidAPI & ScraperAPI, for scraping Amazon's product details & search results data into JSON format.",
+      "UPDATING: A ScraperAPI, for scraping Amazon's product details & search results data into JSON format.",
     image: "/images/3.png",
     tags: ["Javascript", "Json", "ScraperApi", "RapidApi"],
     source: "https://amazon-data-crawler.herokuapp.com/",
@@ -33,7 +33,7 @@ export const projects = [
   {
     title: "Privatechat",
     description:
-      "A Realtime Chat 'Messenger' Application with Facebook and Google login. Built with ChatEngine and Firebase.",
+      "A Realtime Chat 'Messenger' Application with Facebook and Google login.",
     image: "/images/4.png",
     tags: ["React", "ChatEngine", "Javascript", "Firebase"],
     source: "https://privatechatmessenger.netlify.app/",
@@ -42,8 +42,7 @@ export const projects = [
   },
   {
     title: "Phonix shop",
-    description:
-      "IN DEVELOPMENT. Ecommerce site build with React, Headless CMS, integration with Stripe",
+    description: "IN DEVELOPMENT. A Technology Ecommerce site.",
     image: "/images/5.PNG",
     tags: ["Sanity", "Stripe", "Next.js", "React"],
     source: "https://ecommerce-shop-f1na-qka25av2j-joshhortt.vercel.app/",
@@ -53,8 +52,7 @@ export const projects = [
   },
   {
     title: "Pretty Cash",
-    description:
-      "IN DEVELOPMENT. 2hand Ecommerce site, built with Vanilla JS, integration with Stripe.",
+    description: "IN DEVELOPMENT. 2hand Ecommerce site.",
     image: "/images/6.PNG",
     tags: ["Css", "Stripe", "Javascript"],
     source: "",
@@ -63,8 +61,7 @@ export const projects = [
   },
   {
     title: "CC Property Services",
-    description:
-      "A Vacation Rental Property Services Company Landing Page. Uses the 'Astra' Wordpress Theme.",
+    description: "A Vacation Rental Property Services Company Landing Page.",
     image: "/images/7.PNG",
     tags: ["Php", "MySql", "Javascript", "Cms"],
     source: "https://casacasa.pt",
@@ -73,8 +70,7 @@ export const projects = [
   },
   {
     title: "Bitmatica",
-    description:
-      "A Hardware & Software E-commerce Website. Uses the 'Prestashop' E-commerce platform",
+    description: "A Hardware & Software E-commerce Website.",
     image: "/images/8.PNG",
     tags: ["Php", "MySql", "Javascript", "Cms"],
     source: "https://bitmatica.pt/",
@@ -83,8 +79,7 @@ export const projects = [
   },
   {
     title: "Blue Door Lagos",
-    description:
-      "A Vacation Rental Booking Website.  Uses the 'Sydney' Wordpress Theme.",
+    description: "A Vacation Rental Booking Website.",
     image: "/images/9.PNG",
     tags: ["Php", "MySql", "Javascript", "Cms"],
     source: "https://bluedoorlagos.com/",
@@ -93,8 +88,7 @@ export const projects = [
   },
   {
     title: "Lagos Bay View Flat",
-    description:
-      "A Vacation Rental Booking Website. Uses the 'Astra' Wordpress Theme.",
+    description: "A Vacation Rental Booking Website.",
     image: "/images/10.PNG",
     tags: ["Php", "MySql", "Javascript", "Cms"],
     source: "https://lagosbayviewflat.com/",
@@ -103,8 +97,7 @@ export const projects = [
   },
   {
     title: "Vinyl Flat",
-    description:
-      "A Vacation Rental Booking Website. Uses the 'Sydney' Wordpress Theme.",
+    description: "A Vacation Rental Booking Website.",
     image: "/images/11.PNG",
     tags: ["Php", "MySql", "Javascript", "Cms"],
     source: "https://vinylflat.pt/",
@@ -113,8 +106,7 @@ export const projects = [
   },
   {
     title: "Casa Beatriz",
-    description:
-      "A Vacation Rental Booking Website. Uses the 'Astra' Wordpress Theme.",
+    description: "A Vacation Rental Booking Website.",
     image: "/images/12.PNG",
     tags: ["Php", "MySql", "Javascript", "Cms"],
     source: "https://casabeatriz.pt/",
@@ -123,7 +115,7 @@ export const projects = [
   },
   {
     title: "Dev Match",
-    description: "A Ruby on Rails CRUD Application, hosted in 'Heroku.com'.",
+    description: "A Ruby on Rails CRUD Application.",
     image: "/images/13.PNG",
     tags: ["Ruby on Rails", "MySql", "Javascript"],
     source: "https://lit-river-74323.herokuapp.com/",
@@ -132,8 +124,7 @@ export const projects = [
   },
   {
     title: "Designer Portfolio",
-    description:
-      "A Portfolio Landing Page for artists and designers. Built with Javascript.",
+    description: "A Portfolio Landing Page for artists & designers.",
     image: "/images/14.PNG",
     tags: ["Html", "Css", "Javascript"],
     source: "https://designer-portfolio-jade.vercel.app/",
@@ -142,8 +133,7 @@ export const projects = [
   },
   {
     title: "De Flat",
-    description:
-      "A Vacation Rental Booking Website. Uses the 'Sydney' Wordpress Theme.",
+    description: "A Vacation Rental Booking Website.",
     image: "/images/15.png",
     tags: ["Php", "MySql", "Javascript", "Cms"],
     source: "https://deflat.pt/",
@@ -152,8 +142,7 @@ export const projects = [
   },
   {
     title: "GymX",
-    description:
-      "A Gym Landing Page for a fitness business. Built with Javascript.",
+    description: "A Gym Landing Page for fitness businesses.",
     image: "/images/16.png",
     tags: ["Html", "Css", "Javascript"],
     source: "https://gym-x.vercel.app/",
@@ -162,7 +151,7 @@ export const projects = [
   },
   {
     title: ".trainers",
-    description: "A sneakers/trainers E-commerce shop. Built with Javascript.",
+    description: "A trainers E-commerce shop.",
     image: "/images/17.png",
     tags: ["Html", "Css", "Javascript"],
     source: "https://trainers-shop.vercel.app/",
@@ -171,8 +160,7 @@ export const projects = [
   },
   {
     title: "The Power-Attic",
-    description:
-      "A Gym Landing Page for Personal Trainers. Built with Html & Tailwind Css.",
+    description: "A Gym Landing Page for Personal Trainers.",
     image: "/images/18.png",
     tags: ["Html", "Tailwind Css", "Javascript"],
     source: "https://power-attic.vercel.app/",
@@ -181,8 +169,7 @@ export const projects = [
   },
   {
     title: "JAHC",
-    description:
-      " A Headless CMS Blog. Built with React, GraphQL, Nextjs & Tailwind Css.",
+    description: " A Headless CMS Blog.",
     image: "/images/19.png",
     tags: ["React", "Next", "Tailwind Css", "GraphQL"],
     source: "https://jahc.vercel.app/",
@@ -191,7 +178,7 @@ export const projects = [
   },
   {
     title: "Creative Lightbox Blog",
-    description: "A simple Blog. Built with the Svelte Framework",
+    description: "A simple Blog.",
     image: "/images/20.png",
     tags: ["Html", "Css", "Svelte", "Javascript"],
     source: "https://creativelightbox.vercel.app/",
@@ -200,8 +187,7 @@ export const projects = [
   },
   {
     title: "Hoje Aprendi",
-    description:
-      "A Full-stack app for students. Built with React and Supabase.",
+    description: "A Full-stack app for students.",
     image: "/images/21.png",
     tags: ["React", "Javascript", "Supabase"],
     source: "https://hoje-aprendi.netlify.app/",
@@ -210,8 +196,7 @@ export const projects = [
   },
   {
     title: "Rastrum",
-    description:
-      "Simple Note-Taking App. Built with Javascript, React and Remix.",
+    description: "Simple Note-Taking App.",
     image: "/images/22.png",
     tags: ["React", "Remix", "Javascript"],
     source: "https://rastrum.netlify.app/",
@@ -220,8 +205,7 @@ export const projects = [
   },
   {
     title: "Kadê Gastos",
-    description:
-      "A Full-Stack Spending Tracker Management App. Built with Remix.",
+    description: "A Full-Stack Spending Tracker Management App.",
     image: "/images/23.png",
     tags: ["React", "Remix", "MongoDB"],
     source: "https://kadegastos.netlify.app/",
@@ -230,8 +214,7 @@ export const projects = [
   },
   {
     title: "Project Prodigy",
-    description:
-      "Simple, powerful & flexible markdown-powered docs site for readers. Built with Next.js.",
+    description: "Simple, powerful & flexible markdown-powered docs site.",
     image: "/images/24.png",
     tags: ["Javascript", "React", "Next.js", "MDX"],
     source: "https://project-prodigy.vercel.app/",
@@ -240,8 +223,7 @@ export const projects = [
   },
   {
     title: "100devs",
-    description:
-      "IN DEVELOPMENT. A Blog for Web Development Students. Built with Tailwindcss, Nextjs & Markdown.",
+    description: "IN DEVELOPMENT. A Blog for Web Development Students.",
     image: "/images/25.png",
     tags: ["Javascript", "React", "Next.js", "MDX"],
     source: "",
@@ -250,8 +232,7 @@ export const projects = [
   },
   {
     title: "Solicitor",
-    description:
-      "A Solicitor Law Firm Blog Website. Built with NextJS & Markdown.",
+    description: "A Solicitor Law Firm Blog Website.",
     image: "/images/26.png",
     tags: ["Javascript", "React", "Next.js", "MDX"],
     source: "https://evaristoamaro.pt/",
