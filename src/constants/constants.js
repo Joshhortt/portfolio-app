@@ -241,10 +241,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2003, text: "Worked in IT Support & Maintainance" },
+  { year: 2005, text: "Worked in IT Support & Maintainance" },
   { year: 2017, text: "Worked as a Wordpress Developer" },
   { year: 2019, text: "Worked as a SysAdmin & IT Technician" },
   { year: 2020, text: "Started my React Development journey" },
   { year: 2022, text: "Founded Creative Lightbox.net" },
-  { year: 2023, text: "Learning Project Management" },
+  { year: 2023, text: "Graduated in project management" },
 ];

@@ -41,7 +41,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Some Experience with <br />
+            Experience with <br />
             Node | ASP.Net | Databases
           </ListParagraph>
         </ListContainer>

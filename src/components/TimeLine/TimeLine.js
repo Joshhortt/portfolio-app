@@ -59,25 +59,51 @@ const Timeline = () => {
   // }, []);
   return (
     <Section id="about">
-      <SectionTitle>About Me</SectionTitle>
-      <SectionText>
-        I am a web developer with over 20+ years of experience working on a
-        diverse range of technologies and projects across various industries. My
-        passion for web development drives me to create high-performing, safe,
-        and easy to maintain websites. I specialize in building Wordpress
-        websites and websites on the{" "}
-        <a
-          id="jamstack"
-          href="https://creativelightbox.net/why-the-jamstack-is-the-future-of-web-development"
-          target="_blank"
-        >
-          Jamstack
-        </a>{" "}
-        architecture. With my proficiency in front-end, back-end, API
-        integrations, databases, server maintenance, hosting, content management
-        systems (CMS), e-commerce solutions and more, I am well-equipped to
-        handle all web development needs.
-      </SectionText>
+      <Section id="about">
+        <SectionTitle>About Me</SectionTitle>
+        <SectionText>
+          <p>
+            I specialize in building WordPress websites and websites on the{" "}
+            <a
+              id="jamstack"
+              href="https://creativelightbox.net/why-the-jamstack-is-the-future-of-web-development"
+              target="_blank"
+            >
+              Jamstack
+            </a>{" "}
+            architecture. With my proficiency in front-end, back-end, API
+            integrations, databases, server maintenance, hosting, content
+            management systems (CMS), e-commerce solutions, project management,
+            and digital marketing, I am well-equipped to handle all web
+            development needs.
+          </p>
+          <br></br>
+          <p>
+            In addition to crafting technically sound and visually appealing
+            websites, I excel in managing projects from conception to
+            completion. My project management skills ensure that timelines are
+            met, budgets are adhered to, and client expectations are exceeded.
+          </p>
+          <br></br>
+          <p>
+            Furthermore, I bring a strategic approach to digital marketing,
+            leveraging my insights to enhance online visibility, user
+            engagement, and overall brand success. Whether it's optimizing SEO,
+            running effective social media campaigns, or implementing
+            data-driven marketing strategies, I'm dedicated to achieving
+            measurable results.
+          </p>
+          <br></br>
+          <p>
+            With a holistic skill set that encompasses web development, project
+            management, and digital marketing, I am committed to delivering
+            comprehensive solutions that help businesses thrive in the digital
+            landscape.
+          </p>
+          <br></br>
+        </SectionText>
+      </Section>
+
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (
