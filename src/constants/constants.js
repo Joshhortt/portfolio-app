@@ -238,6 +238,15 @@ export const projects = [
     visit: "https://github.com/Joshhortt/solicitor",
     id: 25,
   },
+  {
+    title: "Digital Marketing Insights",
+    description: "A Digital Marketin 6 E-commerce Docs Website.",
+    image: "/images/27.png",
+    tags: ["TailwindCSS", "Astro", "MDX"],
+    source: "https://digital-marketing-insights.vercel.app/",
+    visit: "https://github.com/Joshhortt/digital-marketing-insights/",
+    id: 26,
+  },
 ];
 
 export const TimeLineData = [
