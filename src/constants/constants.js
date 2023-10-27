@@ -215,7 +215,7 @@ export const projects = [
     title: "Project Prodigy",
     description: "Simple, powerful & flexible markdown-powered docs site.",
     image: "/images/24.png",
-    tags: ["Javascript", "React", "Next.js", "MDX"],
+    tags: ["Javascript", "Typescript", "Next.js", "MDX"],
     source: "https://project-prodigy.vercel.app/",
     visit: "https://github.com/Joshhortt/project-prodigy",
     id: 23,
@@ -240,7 +240,7 @@ export const projects = [
   },
   {
     title: "Digital Marketing Insights",
-    description: "A Digital Marketin 6 E-commerce Docs Website.",
+    description: "A Digital Marketing & E-commerce Documentation Website.",
     image: "/images/27.png",
     tags: ["TailwindCSS", "Astro", "MDX"],
     source: "https://digital-marketing-insights.vercel.app/",
