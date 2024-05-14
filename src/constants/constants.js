@@ -235,6 +235,7 @@ export const projects = [
     image: "/images/26.png",
     tags: ["Javascript", "React", "Next.js", "MDX"],
     source: "https://evaristoamaro.pt/",
+    staging: "https://evaristoamaro.vercel.app//",
     visit: "https://github.com/Joshhortt/solicitor",
     id: 25,
   },
