@@ -63,13 +63,13 @@ const Timeline = () => {
         <SectionTitle>About Me</SectionTitle>
         <SectionText>
           <p>
-            I specialize in building WordPress websites and websites on the{" "}
+            I specialize in building Next.js and Wordpress websites on the{" "}
             <a
               id="jamstack"
               href="https://creativelightbox.net/why-the-jamstack-is-the-future-of-web-development"
               target="_blank"
             >
-              Jamstack
+              MERN
             </a>{" "}
             architecture. With my proficiency in front-end, back-end, API
             integrations, databases, server maintenance, hosting, content
@@ -86,12 +86,7 @@ const Timeline = () => {
           </p>
           <br></br>
           <p>
-            Furthermore, I bring a strategic approach to digital marketing,
-            leveraging my insights to enhance online visibility, user
-            engagement, and overall brand success. Whether it's optimizing SEO,
-            running effective social media campaigns, or implementing
-            data-driven marketing strategies, I'm dedicated to achieving
-            measurable results.
+            Furthermore, I bring a strategic approach to digital marketing, leveraging my insights to enhance online visibility, user engagement, and overall brand success. With a passion for sales, I excel in crafting marketing strategies that not only boost brand presence but also drive conversions and revenue growth. Whether it's optimizing SEO, running effective social media campaigns, or implementing data-driven marketing strategies, I'm dedicated to achieving measurable results that translate into sales success
           </p>
           <br></br>
           <p>
