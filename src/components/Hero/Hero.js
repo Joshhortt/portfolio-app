@@ -17,7 +17,7 @@ const Hero = (props) => (
       </SectionTitle>
       <SectionText>
         Full Stack Web Developer based in Beja, Portugal. Experienced in
-        Wordpress & developing React Applications.
+        Wordpress & developing Next.js Applications.
         <br />
       </SectionText>
       <Button
