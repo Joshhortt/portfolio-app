@@ -10,7 +10,7 @@ import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
 const data = [
   { number: 8, text: "Open Source Projects" },
   { number: 188, text: "Published Blog Posts" },
-  { number: 159, text: "Github Project Repositories" },
+  { number: 161, text: "Github Project Repositories" },
   { number: 44, text: "Digital Marketing Campaigns" },
 ];
 
