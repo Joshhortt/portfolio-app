@@ -21,7 +21,7 @@ const Hero = (props) => (
         <br />
       </SectionText>
       <Button
-        onClick={() => (window.location = "https://creativelightbox.net/")}
+        onClick={() => (window.location = "https://dev.to/joshhortt/")}
       >
         Visit my Blog
       </Button>
